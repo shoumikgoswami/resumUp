@@ -17,7 +17,7 @@ https://mailchi.mp/7237c14afdd1/resumup
 https://drive.google.com/drive/folders/1EdKPfYPG4q9TbwlNJ-_pVWP-YOBHQC24
 
 #### Demo video
-<img src="https://user-images.githubusercontent.com/30216453/69008276-b0791800-096e-11ea-9434-d93de680039c.gif" width ="300">
+<img src="https://user-images.githubusercontent.com/30216453/69012024-e6ca8d80-0996-11ea-8809-09a000ea6b61.gif" width ="300">
 
 #### Screenshots
 <img src="https://user-images.githubusercontent.com/30216453/68988963-cbac3080-0865-11ea-8961-9341b199e986.png" width="300" /> <img src="https://user-images.githubusercontent.com/30216453/68988965-d797f280-0865-11ea-8ab4-27d4d2efdf1a.png" width="300" />
