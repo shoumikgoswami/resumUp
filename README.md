@@ -16,6 +16,9 @@ https://mailchi.mp/7237c14afdd1/resumup
 ##### Link to download the APK - 
 https://drive.google.com/drive/folders/1EdKPfYPG4q9TbwlNJ-_pVWP-YOBHQC24
 
+#### Demo video
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/30216453/69008276-b0791800-096e-11ea-9434-d93de680039c.gif)
+
 #### Screenshots
 <img src="https://user-images.githubusercontent.com/30216453/68988963-cbac3080-0865-11ea-8961-9341b199e986.png" width="300" /> <img src="https://user-images.githubusercontent.com/30216453/68988965-d797f280-0865-11ea-8ab4-27d4d2efdf1a.png" width="300" />
 <img src="https://user-images.githubusercontent.com/30216453/68988966-dff02d80-0865-11ea-8840-f6267a332c4a.png" width="300" /> <img src="https://user-images.githubusercontent.com/30216453/68988969-e7afd200-0865-11ea-814b-f691bb16785d.png" width="300" />
